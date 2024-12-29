@@ -1,0 +1,29 @@
+.about-section {
+    padding: 5rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background-color: #f0f0f0;
+    min-height: 88vh;
+  }
+  
+  .about-section .row {
+    width: 100%;
+  }
+  
+  .about-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
+  .about-section p {
+    font-size: 1rem;
+    line-height: 1.0;
+    color: #666;
+    text-align: justify; 
+  }
+  
+  .img-fluid  {
+    border-radius: 10px; /* Add subtle border radius to the image */
+  }

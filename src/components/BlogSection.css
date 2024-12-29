@@ -1,0 +1,44 @@
+.blog-section {
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+  }
+  .blog-section p {
+    font-size: 1rem;
+    line-height: 1.0;
+    color: #666;
+    text-align: justify; 
+  }
+  
+  .img-container {
+    text-align: center;
+    max-width: 80%; 
+  }
+  
+  @media (max-width: 992px) { 
+    .img-container {
+      max-width: 70%; 
+    }
+  }
+  
+  @media (max-width: 768px) { 
+    .img-container {
+      max-width: 60%; 
+    }
+  }
+  
+  @media (max-width: 576px) { 
+    .img-container {
+      max-width: 50%; 
+    }
+  }
+  
+  /* Add this media query for extra small screens */
+  @media (max-width: 425px) { 
+    .img-container {
+      max-width: 90%; 
+    }
+  }
