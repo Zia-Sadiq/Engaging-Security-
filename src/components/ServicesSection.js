@@ -40,7 +40,7 @@ const ServicesSection = () => {
           </div>
           <div className="col-md-4">
             <div className="service-card">
-              <i className="fas fa-fire-extinguisher"></i> 
+              // <i className="fas fa-fire-extinguisher"></i> 
               <h3>Fire Watch Security</h3>
               <p>Monitors for fire hazards, conducts regular inspections, and responds promptly to emergencies, ensuring the safety of occupants.</p>
             </div>
