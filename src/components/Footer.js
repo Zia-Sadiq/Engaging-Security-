@@ -26,6 +26,7 @@ const Footer = () => {
                         EC2A 4NE</p>
             <p>Phone: 020 8087 1952</p>
             <p>Email: contactus@engagingsecurity.com</p>
+            <p>Developed by: Zia Sadiq, Contact: +923136857527</p>
             {/* <ul className="list-inline social-icons">
               <li className="list-inline-item"><a href="#" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-facebook"></i></a></li>
               <li className="list-inline-item"><a href="#" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-twitter"></i></a></li>
