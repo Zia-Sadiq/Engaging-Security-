@@ -9,7 +9,7 @@ const HeroSection = () => {
         <div className="row align-items-center">
           <div className="col-md-6 text-center text-md-start">
             <h1 className="display-4">
-              <span className="letter">G</span>
+              {/* <span className="letter">G</span>
               <span className="letter">U</span>
               <span className="letter">A</span>
               <span className="letter">R</span>
@@ -28,13 +28,34 @@ const HeroSection = () => {
               <span className="letter">L</span>
               <span className="letter">A</span>
               <span className="letter">C</span>
+              <span className="letter">E</span> */}
               <span className="letter">E</span>
+              <span className="letter">N</span>
+              <span className="letter">G</span>
+              <span className="letter">A</span>
+              <span className="letter">G</span>
+              <span className="letter">I</span>
+              <span className="letter">N</span>
+              <span className="letter">G</span>
+              <span className="letter"> </span>
+              <span className="letter">S</span>
+              <span className="letter">E</span>
+              <span className="letter">C</span>
+              <span className="letter">U</span>
+              <span className="letter">R</span>
+              <span className="letter">I</span>
+              <span className="letter">T</span>
+              <span className="letter">Y</span>
+              
+              
 
 
 
             </h1>
-            <p className="lead fw-bold" style={{ fontSize: '1.7rem' }}>Engaging Security</p> 
-            <p style={{ fontSize: '1.7rem' }}>Relax! You are Secure.</p> 
+            <p className="lead fw-bold" style={{ fontSize: '1.7rem' }}>Relax! You are Secure.</p> 
+
+            {/* <p className="lead fw-bold" style={{ fontSize: '1.7rem' }}>Engaging Security</p>  */}
+            {/* <p style={{ fontSize: '1.7rem' }}>Relax! You are Secure.</p>  */}
             {/* <a href="#" className="btn btn-primary">Get Started</a> */}
           </div>
           <div className="col-md-6 text-center text-md-end">
