@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="row align-items-center">
           <div className="col-md-6 text-center text-md-start">
             <h1 className="display-4">
-            <span className="letter">W</span>
+              <span className="letter">W</span>
               <span className="letter">E</span>
               <span className="letter">L</span>
               <span className="letter">C</span>
