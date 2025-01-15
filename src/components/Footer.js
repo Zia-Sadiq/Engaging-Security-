@@ -36,7 +36,7 @@ const Footer = () => {
           </Col>
         </Row>
         <hr className="my-4" />
-        <p className="text-center">© {new Date().getFullYear()} Your Company Name. All rights reserved.</p>
+        <p className="text-center">© {new Date().getFullYear()} Engaging Security Ltd. All rights reserved.</p>
       </Container>
     </footer>
   );
