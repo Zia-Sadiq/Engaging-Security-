@@ -40,7 +40,7 @@ const HeroSection = () => {
               <span className="letter">Y</span>
             </h1>
             <div className="d-flex align-items-center mt-3"> 
-            <img src={phoneIcon} alt="Phone Icon" className="me-2" width="70" height="70" /><p style={{ fontSize: '1.3rem' }}><b>Call us now:</b></p>
+            <img src={phoneIcon} alt="Phone Icon" className="me-2" width="70" height="70" /><p className='txt' style={{ fontSize: '1.3rem' }}><b>Call us now:</b></p>
               <span className='phone' style={{ fontSize: '2rem' }}>020 8087 1952</span> 
             </div> 
           </div>
