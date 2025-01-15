@@ -39,7 +39,9 @@
   }
   
   .letter {
-    font-family: 'Algeria', cursive;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+    font-weight: 700;
     transition: fadeIn 2s ease-in-out;
     
   }
@@ -52,4 +54,11 @@
   
   .lead {
     font-size: 1.2rem; 
+  }
+  .phone{
+    margin-top: -10px;
+    margin-left: -20px;
+  }
+  .me-2{
+    margin-top: -11px;
   }
