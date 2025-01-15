@@ -12,10 +12,10 @@ const AboutSection = () => {
           </div>
           <div className="col-md-6 order-1 order-md-2">
             <h2 className="mb-4 fw-bold">About Us</h2>
-            <p> Engaging Security brings professional security personnel to individuals, national and multinational companies throughout the United Kingdom.</p>
+            <p> Engaging Security brings professional security personnel to individuals, national and multinational companies throughout the United Kingdom. We can provide static security, site management, door supervision, event security management and retail and shopping mall security.</p>
 
             <p><b>Why choose us?</b></p> 
-            <p>We have over 25 years of combined experience in the security sector and have become experts in bespoke customer requirements.  We can supply guards at short notice at competitive hourly rates so please call 020 8087 1952 for more information.</p>
+            <p>We have over 25 years of combined experience in the security sector and have become experts in bespoke customer requirements. We can supply guards at short notice at competitive hourly rates so please call 020 8087 1952 or fill in the contact form or mail us at contactus@engagingsecurity.com</p>
           </div>
         </div>
       </div>
