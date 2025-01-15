@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import './navbar.css';
 import logo from '../assets/images/logos.png'; 
 
 const Navbar = () => {
@@ -10,10 +11,10 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg">
+    <nav className="navbar navbar-expand-lg custom-navbar">  
       <div className="container">
         <Link to="/" className="navbar-brand">
-          <img src={logo} alt="Logo" width="200" />
+          <img src={logo} alt="Logo" width="300" />
         </Link>
         <button 
           className="navbar-toggler" 
