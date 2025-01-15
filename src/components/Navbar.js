@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg custom-navbar">  
       <div className="container">
         <Link to="/" className="navbar-brand">
-          <img src={logo} alt="Logo" width="300" />
+          <img src={logo} alt="Logo" width="400" />
         </Link>
         <button 
           className="navbar-toggler" 
